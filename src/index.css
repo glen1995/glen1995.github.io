@@ -12,6 +12,8 @@ code {
     monospace;
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300;500;700&display=swap");
+
 /**
  * This injects Tailwind's base styles and any base styles registered by
  * plugins.
