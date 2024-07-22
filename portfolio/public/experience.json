@@ -1,0 +1,44 @@
+{
+  "work_experience": [
+    {
+      "company": "Visualping",
+      "title": "intermediate Software Engineer",
+      "location": "Vancouver, BC",
+      "date": "2022-04-13 - Present",
+      "responsibilities": [
+        "If you set your goals ridiculously high and it's a failure, you will fail above everyone else."
+      ],
+      "color": "orange"
+    },
+    {
+      "company": "Langara College",
+      "title": "Part Time Software Engineer",
+      "location": "Vancouver, BC",
+      "date": "2021-02-01 - 2021-12-31",
+      "responsibilities": [
+        "Don't be distracted by criticism. Remember — the only taste of success some people get is to take a bite out of you."
+      ],
+      "color": "blue"
+    },
+    {
+      "company": "Turbolab Technologies",
+      "title": "Software Developer",
+      "location": "Vancouver, BC",
+      "date": "2019-07-01 - 2020-09-31",
+      "responsibilities": [
+        "Many of life's failures are people who did not realize how close they were to success when they gave up."
+      ],
+      "color": "green"
+    },
+    {
+      "company": "Zyxware Technologies",
+      "title": "Junior Software Developer",
+      "location": "Vancouver, BC",
+      "date": "2017-09-01 - 2018-09-31",
+      "responsibilities": [
+        "The only limit to our realization of tomorrow will be our doubts of today."
+      ],
+      "color": "orange"
+    }
+  ]
+}
