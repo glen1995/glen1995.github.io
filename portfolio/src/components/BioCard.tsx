@@ -21,8 +21,8 @@ const BioCard = () => {
                     </div>
                 </div>
             </div>
-            <div className="xs:hidden md:basis-5/12">
-                <Image src="/placeholder.jpg" width={400} height={600} alt="avatar" />
+            <div className="md:basis-5/12">
+                <Image className="xs:hidden md:block" src="/placeholder.jpg" width={400} height={600} alt="avatar" />
             </div>
         </div>
     );
