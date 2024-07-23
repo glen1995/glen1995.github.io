@@ -1,6 +1,4 @@
 import BioCard from "@/components/BioCard";
-import Footer from "@/components/Footer";
-import Navbar from "@/components/Navbar";
 import WorkExperience from "@/components/WorkExperience";
 
 export default function Home() {
@@ -10,7 +8,6 @@ export default function Home() {
         <BioCard />
         <WorkExperience />
       </main>
-
     </>
 
   );
