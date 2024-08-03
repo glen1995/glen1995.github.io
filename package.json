@@ -25,6 +25,6 @@
   },
   "engines": {
     "node": ">=18.17.0",
-    "npm": "please-use-npm"
+    "npm": "10.x"
   }
 }
